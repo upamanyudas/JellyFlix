@@ -6,6 +6,18 @@
   --accent: #e50914;
 }
 
+/*Square Cards and Portrait Cards*/
+
+#loginPage .squareCard {
+  width: 50% !important;
+  background: rgb(20, 20, 20) !important;
+  transform: none !important;
+}
+
+#loginPage .cardText {
+  opacity: 1;
+}
+
 /*Login Page*/
 
 .skinHeader.semiTransparent.noHeaderRight {
